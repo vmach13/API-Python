@@ -62,3 +62,7 @@ def requestHandler(requestCPF, requestProductCode, requestCompanyCode):
   else:
     return "This was triumph. I'm making a note here: HUGE SUCCESS."
 
+#customerListCpfSearch: busca na lista de customers pelo cpf especificado
+#companyListSearch: busca na lista de companies pelo company code especificado
+#productListSearch: busca na lista de products pelo product code especificado
+#requestHandler: executa as funções de busca e retorna de acordo com os resultados
