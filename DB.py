@@ -9,12 +9,12 @@ c6 = Customer('666.666.666-66', 'Xuxa')
 
 customerList = [c1,c2,c3,c4,c5,c6]
 
-co1 = Company('0001','Filial Vila Velha')
-co2 = Company('0002','Filial Vitória')
-co3 = Company('0003','Filial Guarapari')
-co4 = Company('0004','Filial Cariacica')
-co5 = Company('0005','Filial Serra')
-co6 = Company('0006','Filial Nave da Xuxa')
+co1 = Company('90001','Filial Vila Velha')
+co2 = Company('90002','Filial Vitória')
+co3 = Company('90003','Filial Guarapari')
+co4 = Company('90004','Filial Cariacica')
+co5 = Company('90005','Filial Serra')
+co6 = Company('90006','Filial Nave da Xuxa')
 
 companyList = [co1, co2, co3, co4, co5, co6]
 

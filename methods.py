@@ -60,7 +60,7 @@ def requestHandler(requestCPF, requestProductCode, requestCompanyCode):
   elif companyCodeSearch(requestCompanyCode) == False:
     return "Sede não encontrada"
   else:
-    return "This was triumph. I'm making a note here: HUGE SUCCESS."
+    return ""
 
 #customerListCpfSearch: busca na lista de customers pelo cpf especificado
 #companyListSearch: busca na lista de companies pelo company code especificado

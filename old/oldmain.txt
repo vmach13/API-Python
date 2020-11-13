@@ -1,0 +1,9 @@
+from methods import *
+from tests import *
+
+RUN_ALL_TESTS()
+
+
+print(requestHandler('111.111.111-11',str(1001),str(90001)))
+
+  
